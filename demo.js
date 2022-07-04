@@ -1,0 +1,1 @@
+document.write("<font size=20 color=red>Hello Sirak!</font>");
